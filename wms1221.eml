@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/wms1221"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.35" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.35" value="application_server_libraries"/>
+		<level name="commons-beanutils-1.7.0" value="project"/>
+	</levels>
+</component>
